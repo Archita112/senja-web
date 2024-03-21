@@ -9,7 +9,7 @@ const main_function = () => {
     return (
         <div className='flex justify-between items-center'>
             <img src={Leftimg} alt='noimg' className='flex justify-center items-center'/>
-            <div className='flex flex-col justify-center items-center space-y-6'>
+            <div className='flex flex-col justify-center items-center space-y-8 mt-4'>
                 <div className=' justify-center flex'>
                     <h2 className='text-white text-4xl caveat-font'>Build trust with Senja</h2>
                 </div>

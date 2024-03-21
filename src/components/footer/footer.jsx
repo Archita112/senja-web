@@ -5,7 +5,7 @@ import Lightbars from '../images/last-bar.svg';
 
 const footer = () => {
     return(
-        <div className='flex flex-col m-8 space-y-6 justify-center items-center'>
+        <div className='flex flex-col m-8 space-y-10 justify-center items-center'>
             <div className='flex items-center space-x-2 w-100 rounded-md' style={{ backgroundImage: 'linear-gradient(to bottom, #FF766F, #CB322B)' }}>
                 <img src={Chromeicon} alt='noimg' className='p-2'/>
                 <p className='text-white pr-3'>Add to chrome for free</p>
