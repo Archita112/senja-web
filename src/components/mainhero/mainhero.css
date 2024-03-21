@@ -1,0 +1,10 @@
+/*made only for usage of font*/
+
+@font-face {
+    font-family: Caveat;
+    src: url(../fonts/Caveat-VariableFont_wght.ttf);
+}
+
+.caveat-font{
+    font-family: Caveat, cursive;
+}
